@@ -1,20 +1,16 @@
-body{
-  background-image:url("photo.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-};
-.navbar{
-  &.after;
-  background-color: rgba(0,0,0,0.1)
-};
-h1{
-  color: rgb(214, 122, 127);
-  font-size: 70px;
-  font-style: italic;
-};
-.hero{
-  position: absolute;
-  width:1200px
-  margin-left:0
-  margin-top:0px
-};
+#target{
+font-size: 50px;
+color:#27416b;
+font-weight: 400;
+font-family: monospace;
+font-variant: normal;
+}
+#main{
+margin-right: auto;
+margin-left: auto;
+font-style: italic;
+font-family: monospace;
+}
+#d{
+background-color:#cad2d7;
+}
